@@ -1,0 +1,13 @@
+{
+	"name":"Gowtham",
+	"age": 30,
+	"status":true,
+	"address":{
+	"state":"Tamilnadu",
+	"country":"India"
+	},
+	"courses": [
+		"Java",
+		"selenium"
+	]
+}
