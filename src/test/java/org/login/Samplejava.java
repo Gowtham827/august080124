@@ -23,5 +23,12 @@ public class Samplejava {
 	    System.out.println(jsonObject.get("status"));
 	    System.out.println(jsonObject.get("address"));
 	    System.out.println(jsonObject.get("courses"));
+	    
+	    System.out.println("work done");
+	    System.out.println("bug fixed");
+	    
+	    
+	    
+	    
 	}
 }
